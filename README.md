@@ -4,6 +4,7 @@ La presente aplicación vendrían siendo un ejemplo de calculadora realizada con
 ## Modo Claro
 
 ![Modo Claro](https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-1.jpg | width=100)
+<img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-1.jpg" width="100">
 
 ![Modo Claro](https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-2.jpg)
 
