@@ -79,7 +79,8 @@ const MyKeyboard = () => {
                     height: 120,
                     width: "90%",
                     justifyContent: "flex-end",
-                    alingSelf: "center"
+                    alingSelf: "center",
+                    marginBottom: 40
                 }}
             >
                 <Text style={Styles.screenSecondNumber}>
