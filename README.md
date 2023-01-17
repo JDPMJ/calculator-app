@@ -3,17 +3,18 @@ La presente aplicación vendrían siendo un ejemplo de calculadora realizada con
 
 ## Modo Claro
 
-![Modo Claro](https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-1.jpg | width=100)
-<img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-1.jpg" width="100">
+<img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-1.jpg" width="500">
 
-![Modo Claro](https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-2.jpg)
+<img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-2.jpg" width="500">
 
-![Modo Claro](https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-3.jpg)
+<img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-3.jpg" width="500">
 
 ## Modo Oscuro
 
-![Modo Claro](https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-4.jpg)
+<img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-4.jpg" width="500">
 
-![Modo Claro](https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-5.jpg)
+<img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-5.jpg" width="500">
 
-![Modo Claro](https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-6.jpg)
+<img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-6.jpg" width="500">
+
+<input type="text" placeholder="texto">
