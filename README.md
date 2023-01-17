@@ -16,5 +16,3 @@ La presente aplicación vendrían siendo un ejemplo de calculadora realizada con
 <img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-5.jpg" width="500">
 
 <img src="https://github.com/JDPMJ/calculator-app/blob/master/assets/calculator-app-img-6.jpg" width="500">
-
-<input type="text" placeholder="texto">
